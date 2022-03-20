@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.app",
+	"appName": "firstIonicApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
