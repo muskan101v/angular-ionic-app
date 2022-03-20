@@ -1,5 +1,5 @@
 # angular-ionic-app
-**npm i
+**npm i \\
 ionic serve (run an application)
 ionic cap add (to add and iios or android floder in our applocation)
 ionic cap copy (to copy wwww folder in andriod app)
